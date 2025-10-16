@@ -1,38 +1,35 @@
-# Multiple Linear Regression Project
+# Çoklu Doğrusal Regresyon Projesi
 
-This project demonstrates how to apply **Multiple Linear Regression** to predict a target variable based on multiple independent features using **Python** and **Scikit-Learn**.
-
----
-
-##  Project Overview
-
-This notebook walks through:
-- Exploratory Data Analysis (EDA)
-- Outlier detection and removal
-- Data preprocessing (encoding, scaling)
-- Building and training a Multiple Linear Regression model
-- Model evaluation using MAE, MSE, RMSE, and R² metrics
-- Visualization of relationships and predictions
+Bu proje, **Python** kullanarak bir hedef değişkeni birden fazla bağımsız değişkene göre tahmin etmek için **Çoklu Doğrusal Regresyon (Multiple Linear Regression)** modelinin nasıl uygulanacağını göstermektedir.
 
 ---
 
-##  Concepts Covered
+## Proje Özeti
 
-- Linear regression fundamentals  
-- Correlation and multicollinearity  
-- Feature importance  
-- Model performance metrics  
-- Outlier handling using the IQR method  
+Bu çalışma aşağıdaki aşamalardan oluşmaktadır:
+- Veri Keşfi (EDA - Exploratory Data Analysis)
+- Veri ön işleme (encoding, scaling)
+- Çoklu doğrusal regresyon modelinin kurulması ve eğitimi
+- Modelin hata metrikleriyle değerlendirilmesi (MAE, MSE, RMSE, R²)
+- Tahmin sonuçlarının ve ilişkilerin görselleştirilmesi
 
 ---
 
-##  Tools & Libraries
+##  Kapsanan Konular
 
-| Library | Purpose |
-|----------|----------|
-| pandas | Data manipulation |
-| numpy | Numerical computations |
-| seaborn / matplotlib | Visualization |
-| scikit-learn | Model training and evaluation |
+- Doğrusal regresyonun temel mantığı  
+- Korelasyon ve çoklu bağlantı (multicollinearity) analizi  
+- Özellik seçimi ve model iyileştirme  
+- Model performans metrikleri  
 
+---
+
+##  Kullanılan Kütüphaneler
+
+| Kütüphane | Amaç |
+|------------|------|
+| pandas | Veri okuma ve işleme |
+| numpy | Sayısal işlemler |
+| seaborn / matplotlib | Veri görselleştirme |
+| scikit-learn | Model eğitimi ve değerlendirme |
 
