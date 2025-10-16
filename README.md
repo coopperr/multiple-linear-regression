@@ -35,11 +35,4 @@ This notebook walks through:
 | seaborn / matplotlib | Visualization |
 | scikit-learn | Model training and evaluation |
 
----
-
-##  How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/multiple-linear-regression.git
 
